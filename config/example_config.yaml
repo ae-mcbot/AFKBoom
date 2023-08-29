@@ -1,0 +1,13 @@
+FEATURES:
+  MSG: true  # sends MSGs per /msg
+  ADS: true  # sends an ad every hour in public chat
+  CLAN-CHAT: true  # sends a MSG in the /cc Clan chat
+  PAYOUT: true  # pays out coins per /pay
+  PUBLIC-CHAT: true  # writes something in the public minecraft chat
+
+API:
+  DISCORD:    # discord bot token
+
+BOT_USER:
+  USERNAME:    # email address of microsoft account
+  # You'll be logged on the first startup via a auth link in the console
